@@ -1,17 +1,17 @@
-// const accountid = 124;
-// let accoutemail = "rehamankhan8960@gmail.com"
-// var accoutpassword = "12345"
-// accountcity = "hardoi"  
+const accountid = 124;
+let accoutemail = "rehamankhan8960@gmail.com"
+var accoutpassword = "12345"
+accountcity = "hardoi"  
 
-// // accountid = 3
-// accoutemail ="rehaman@gmail.com"
-// // accoutpassword = 122
-// accountcity = "uttarpradesh"
+// accountid = 3
+accoutemail ="rehaman@gmail.com"
+// accoutpassword = 122
+accountcity = "uttarpradesh"
 
-// console.log(accountid);
+console.log(accountid);
 
-//  console.table([accoutemail, accoutpassword, accountcity])
-//  console.log(typeof accountid, typeof accountcity);
+ console.table([accoutemail, accoutpassword, accountcity])
+ console.log(typeof accountid, typeof accountcity);
   
 
 // primitive data......

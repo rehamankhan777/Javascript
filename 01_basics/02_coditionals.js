@@ -28,12 +28,38 @@
 // for  checking.....
 
 
-let age = 17;
+// let age = 17;
 
-if(age!=18){
+// if(age!=18){
+//     console.log("true");
+// }
+// else{
+//     console.log("false");
+    
+// }
+
+a = 5;
+b = 6;
+
+a != b
+
+
+let grace = 19;
+
+if(grace!=18){
     console.log("true");
 }
-else{
+
+else if(grace == 0) {
+    console.log("are you kidding?");
+    
+}
+else {
     console.log("false");
     
 }
+
+a = 7;
+b = 8;
+let c = a>b ? (a-b):(b-a)
+console.log(c);
